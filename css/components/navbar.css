@@ -1,0 +1,10 @@
+.navbar-wagon {
+  padding: 10px 35px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: white;
+}
+.navbar-wagon ul {
+  margin-bottom:0;
+}
